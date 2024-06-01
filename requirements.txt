@@ -1,4 +1,4 @@
-attrs==19.3.0
+attrs
 certifi==2019.11.28
 Click==7.0
 cycler==0.10.0
